@@ -2,7 +2,7 @@
 A web-app to display list of real-time movies in theaters, their trailers, IMDB rating.
 
 # Description:  
-In this application I have developed an application with a basic GUI where the user can find the latest movies, read their reviews and also can book tickets using Fandango.  
+I have developed an application with a basic GUI where the user can find the latest movies, read their reviews and also can book tickets using Fandango.  
 
 I make use of three open source APIs:  
 ▪ OMDB API  
